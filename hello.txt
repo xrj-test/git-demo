@@ -9,6 +9,7 @@ hello xrj
 hello xyy
 xrj ai xyy
 333333333333333
+<<<<<<< HEAD
 hot fix   fixed
-got fix
+got fix  hot-fix test
 
